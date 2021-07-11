@@ -6,11 +6,11 @@ import { StaticImage } from 'gatsby-plugin-image'
 // Step 2: Define your component
 const IndexPage = () => {
   return (
-    <Layout pageTitle="Home Page">
+    <Layout pageTitle="Interior Design München/Köln">
     <p>I'm making this ..hot..</p>
     <StaticImage
-        alt="Terminator coming back to buy Bitcoin"
-        src="../images/arnold-buying-bitcoin-cheap.jpeg"
+        alt="Wohnzimmer Interior Design aus München"
+        src="../images/pbshomes-interior-design-feng-shui.jpeg"
       />
   </Layout>
   )

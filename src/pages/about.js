@@ -5,8 +5,8 @@ import Layout from '../components/layout'
 // Step 2: Define your component
 const AboutPage = () => {
   return (
-    <Layout pageTitle="About Me">
-    <p>Hola chickas... it's me Mario.</p>
+    <Layout pageTitle="Über uns">
+    <p>Hi, wir realisieren professionelles Interior Design nach Feng Shui in und um München oer Köln.</p><p>Besonderer Fokus liegt dabei auf purem Wohlfühlen. Umweltschutz und Nachhaltigkeit</p>
   </Layout>
   )
 }
