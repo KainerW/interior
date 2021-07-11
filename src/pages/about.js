@@ -6,7 +6,7 @@ import Layout from '../components/layout'
 const AboutPage = () => {
   return (
     <Layout pageTitle="Über uns">
-    <p>Hi, wir realisieren professionelles Interior Design nach Feng Shui in und um München oder Köln.</p><p>Besonderer Fokus liegt dabei auf purem Wohlfühlen. Umweltschutz und Nachhaltigkeit</p>
+    <p>Hi, wir realisieren professionelles Interior Design nach Feng Shui in und um München oder Köln.</p><p>Besonderer Fokus liegt dabei auf purem Wohlfühlen, Umweltschutz und Nachhaltigkeit</p>
   </Layout>
   )
 }
