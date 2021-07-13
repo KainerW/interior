@@ -2,14 +2,13 @@
 import * as React from 'react'
 import Layout from '../components/layout'
 import { StaticImage } from 'gatsby-plugin-image'
-import Helmet from 'react-helmet'
-import Header from '../components/header'
+
 
 
 // Step 2: Define your component
 const IndexPage = () => {
   return (
-    <Header >
+   
     <Layout pageTitle="Interior Design München/Köln">
     <p>Wohnen und wohlfühlen mit <a href="https://pbshomes.de">pbshomes.de</a></p>
     <StaticImage
